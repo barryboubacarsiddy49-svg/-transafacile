@@ -12,3 +12,5 @@ facteur
 canal+
 cie
 énergie 
+telecharge pley 
+aptor
